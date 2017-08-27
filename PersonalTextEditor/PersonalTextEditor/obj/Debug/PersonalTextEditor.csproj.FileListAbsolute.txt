@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\bin\Debug\PersonalTextEditor.exe.config
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\bin\Debug\PersonalTextEditor.exe
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\bin\Debug\PersonalTextEditor.pdb
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.exe
+c:\users\home\documents\visual studio 2015\Projects\PersonalTextEditor\PersonalTextEditor\obj\Debug\PersonalTextEditor.pdb
